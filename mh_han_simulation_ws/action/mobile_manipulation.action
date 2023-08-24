@@ -1,0 +1,9 @@
+#goal definition
+trajectory_msgs/JointTrajectory mobile_manipulation_trajectory
+#trajectory_msgs/JointTrajectory mobile_manipulation_twist
+---
+#result definition
+bool return_status
+---
+#feedback
+int32 feedback
